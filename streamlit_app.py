@@ -111,13 +111,20 @@ st.markdown("上传 Income Statement & General Ledger，选择 Property 和日�
 # 自动扫描当前目录下所有 Mapping CSV
 property_options = []
 for file in os.listdir("."):
-    if file.endswith("Mapping.csv"):
+    if file.endswith("Mapping.csv") and file != "Mapping.csv":  # 排除通用 Mapping.csv
         property_options.append(file.replace(" Mapping.csv",""))
 
-if not property_options:
-    st.error("⚠️ 当前目录未找到 *Mapping.csv 文件，请上传 mapping 文件。")
-    st.stop()
+# 加上 Other 选项
+property_options.append("Other")
 
+# 选择 Property
+property_selected = st.selectbox("🏠 选择 Property", property_options)
+
+# 根据选择确定 mapping 文件路径
+if property_selected == "Other":
+    mapping_path = "Mapping.csv"  # 通用 mapping
+else:
+    mapping_path = f"{property_selected} Mapping.csv"  # property 专用 mapping
 # 选择 Property
 property_selected = st.selectbox("🏠 选择 Property", property_options)
 mapping_path = f"{property_selected} Mapping.csv"  # 根目录下
