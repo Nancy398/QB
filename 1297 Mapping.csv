@@ -1,0 +1,30 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/from Moo Housing Inc:1297:Rent receivable,Utilities:1297:LADWP,DR,1297 LADWP {current_month},No
+Name,Utilities Services - Gas,Due to/from Moo Housing Inc:1297:Rent receivable,Utilities:1297:Socal Gas,DR,1297 Socal Gas {current_month},No
+Name,Utilities Services - Trash,Due to/from Moo Housing Inc:1297:Rent receivable,Utilities:1297:Trash,DR,1297 Trash {current_month},No
+Name,Utilities Services - Internet,Due to/from Moo Housing Inc:1297:Rent receivable,Utilities:1297:Spectrum,DR,1297 nternet {current_month},No
+Name,Utilities Services - Cleaning,Due to/from Moo Housing Inc:1297:Rent receivable,Cleaning:1297 Cleaning,DR,1297 Cleaning {current_month},No
+Name,Move Out Cleaning Fee,Due to/from Moo Housing Inc:1297:Rent receivable,Cleaning:1297 Cleaning,DR,1297 Cleaning {current_month},No
+Name,Move Out Maintenance Fee,Due to/from Moo Housing Inc:1297:Rent receivable,Repairs and Maintenance:1297,DR,1297 Maintenance {current_month},No
+Name,Rent Income,Due to/from Moo Housing Inc:1297:Rent receivable,Operating Rent Income:1297,DR,1297 Rent {current_month},No
+Name,Parking Income,Due to/from Moo Housing Inc:1297:Rent receivable,Operating Rent Income:1297,DR,1297 Parking Rent {current_month},No
+Name,Concessions,Due to/from Moo Housing Inc:1297:Rent receivable,Operating Rent Income:1297,DR,1297 Concessions {current_month},No
+Name,Advertising,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Advertising and Promotion:1297,CR,1297 Advertising {current_month},No
+Name,Accounting,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Professional Fees:Accounting:1297,CR,1297 Accounting {current_month},No
+Name,Property Insurance,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Insurance Expense,CR,1297 Property Insurance,No
+Name,Management Fees,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Professional Fees:property management fee:1297,CR,1297 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Commissions Paid:1297,CR,1297 Commission Fee {current_month},No
+Name,LADWP,Due to/from Moo Housing Inc:1297:Utilities:LADWP,Utilities:1297:LADWP,CR,1297 LADWP {current_month},No
+Name,Gas,Due to/from Moo Housing Inc:1297:Utilities:Socal Gas,Utilities:1297:Socal Gas,CR,1297 Gas {current_month},No
+Name,Internet,Due to/from Moo Housing Inc:1297:Utilities:Spectrum,Utilities:1297:Spectrum,CR,1297 Spectrum {current_month},No
+Keyword,6147,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Repairs and Maintenance:1297,CR,,Yes
+Keyword,6074,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Cleaning:1297 Cleaning,CR,,Yes
+Keyword,7050,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Furniture and Equipment:1297,CR,,Yes
+Keyword,6076,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Cleaning:1297 Cleaning,CR,,Yes
+Keyword,7010,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Furniture and Equipment:1297,CR,,Yes
+Keyword,6101,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Professional Fees,CR,,Yes
+Keyword,6073,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Repairs and Maintenance:1297,CR,,Yes
+Keyword,6177,Due to/from Moo Housing Inc:1297:Utilities:Republic Service,Utilities:1297:Trash,CR,,Yes
+Keyword,6150,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Repairs and Maintenance:1297,CR,,Yes
+Keyword,6145,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Repairs and Maintenance:1297,CR,,Yes
+Keyword,6077,Due to/from Moo Housing Inc:1297:MH Prepaid and distribution,Repairs and Maintenance:1297,CR,,Yes
