@@ -105,24 +105,22 @@ def generate_iif(income_file, gl_file, mapping_path, date_str):
 # Streamlit 界面
 # ---------------------------
 st.set_page_config(page_title="QuickBooks IIF Generator", layout="centered")
-
 st.title("💼 QuickBooks IIF Generator")
 st.markdown("上传 Income Statement & General Ledger，选择 Property 和日期，自动生成 `.iif` 文件。")
 
-# 自动读取 mapping 文件夹下所有 Mapping 文件
-mapping_dir = "mapping"
+# 自动扫描当前目录下所有 Mapping CSV
 property_options = []
-for file in os.listdir(mapping_dir):
+for file in os.listdir("."):
     if file.endswith("Mapping.csv"):
         property_options.append(file.replace(" Mapping.csv",""))
 
 if not property_options:
-    st.error("⚠️ 未找到 mapping 文件，请确保 mapping 文件夹中有 *Mapping.csv 文件。")
+    st.error("⚠️ 当前目录未找到 *Mapping.csv 文件，请上传 mapping 文件。")
     st.stop()
 
 # 选择 Property
 property_selected = st.selectbox("🏠 选择 Property", property_options)
-mapping_path = os.path.join(mapping_dir, f"{property_selected} Mapping.csv")
+mapping_path = f"{property_selected} Mapping.csv"  # 根目录下
 
 # 输入日期
 date_input = st.date_input("🗓️ 选择日期", value=datetime(2025,9,30))
