@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 
 # ---------------------------
-# 封装主处理逻辑
+# 主处理函数
 # ---------------------------
 def generate_iif(income_file, gl_file, mapping_path, date_str):
     DATE = date_str
@@ -72,6 +72,7 @@ def generate_iif(income_file, gl_file, mapping_path, date_str):
 
             doc_counter += 1
 
+    # 处理 Income
     df_income = pd.read_csv(income_file)
     df_income.columns = ['Name','Amount','Col2']
     if 'Col2' in df_income.columns:
@@ -79,10 +80,11 @@ def generate_iif(income_file, gl_file, mapping_path, date_str):
     df_income['Name'] = df_income['Name'].str.strip()
     process_file(df_income, "Income")
 
+    # 处理 GL
     df_gl = pd.read_csv(gl_file)
     process_file(df_gl, "GL")
 
-    # 生成 IIF 内容
+    # 生成 IIF
     output = []
     output.append("!TRNS\tTRNSTYPE\tDATE\tACCNT\tAMOUNT\tMEMO\tNAME\tDOCNUM")
     output.append("!SPL\tTRNSTYPE\tDATE\tACCNT\tAMOUNT\tMEMO\tNAME\tDOCNUM")
@@ -108,13 +110,13 @@ st.set_page_config(page_title="QuickBooks IIF Generator", layout="centered")
 st.title("💼 QuickBooks IIF Generator")
 st.markdown("上传 Income Statement & General Ledger，选择 Property 和日期，自动生成 `.iif` 文件。")
 
-# 自动扫描当前目录下所有 Mapping CSV
+# 扫描当前目录下所有 Mapping CSV
 property_options = []
 for file in os.listdir("."):
     if file.endswith("Mapping.csv") and file != "Mapping.csv":  # 排除通用 Mapping.csv
         property_options.append(file.replace(" Mapping.csv",""))
 
-# 加上 Other 选项
+# 添加 Other 选项
 property_options.append("Other")
 
 # 选择 Property
@@ -125,9 +127,6 @@ if property_selected == "Other":
     mapping_path = "Mapping.csv"  # 通用 mapping
 else:
     mapping_path = f"{property_selected} Mapping.csv"  # property 专用 mapping
-# 选择 Property
-property_selected = st.selectbox("🏠 选择 Property", property_options)
-mapping_path = f"{property_selected} Mapping.csv"  # 根目录下
 
 # 输入日期
 date_input = st.date_input("🗓️ 选择日期", value=datetime(2025,9,30))
@@ -137,6 +136,7 @@ date_str = date_input.strftime("%m/%d/%Y")
 income_file = st.file_uploader("📂 上传 Income Statement CSV", type=["csv"])
 gl_file = st.file_uploader("📂 上传 General Ledger CSV", type=["csv"])
 
+# 生成 IIF
 if st.button("🚀 生成 IIF 文件"):
     if not income_file or not gl_file:
         st.error("⚠️ 请上传 Income Statement 和 General Ledger 文件。")
