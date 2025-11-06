@@ -16,6 +16,7 @@ Name,Management Fees,Due to/from Moo Housing Inc:MH Prepaid and distribution,Pro
 Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:MH Prepaid and distribution,Commissions Paid,CR,Commission Fee {current_month},No
 Name,LADWP,Due to/from Moo Housing Inc:Utilities:LADWP,Utilities:LADWP,CR,LADWP {current_month},No
 Name,Gas,Due to/from Moo Housing Inc:Utilities:Socal Gas,Utilities:Socal Gas,CR,Gas {current_month},No
+Name,Republic Service,Due to/from Moo Housing Inc:Utilities:Republic Service,Utilities:Trash,CR,Republic Service {current_month},No
 Name,Internet,Due to/from Moo Housing Inc:Utilities:Spectrum,Utilities:Spectrum,CR,Spectrum {current_month},No
 Keyword,6147,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
 Keyword,6074,Due to/from Moo Housing Inc:MH Prepaid and distribution,Cleaning,CR,,Yes
@@ -26,4 +27,5 @@ Keyword,6101,Due to/from Moo Housing Inc:MH Prepaid and distribution,Professiona
 Keyword,6073,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
 Keyword,6177,Due to/from Moo Housing Inc:Utilities:Republic Service,Utilities:Trash,CR,,Yes
 Keyword,6150,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
+
 Keyword,6145,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
