@@ -4,6 +4,7 @@ Name,Utilities Services - Gas,Due to/from Moo Housing Inc:Rent receivable,Utilit
 Name,Utilities Services - Trash,Due to/from Moo Housing Inc:Rent receivable,Utilities:Trash,DR,Trash {current_month},No
 Name,Utilities Services - Internet,Due to/from Moo Housing Inc:Rent receivable,Utilities:Spectrum,DR,Internet {current_month},No
 Name,Utilities Services - Cleaning,Due to/from Moo Housing Inc:Rent receivable,Cleaning,DR,Cleaning {current_month},No
+Name,Repair,Due to/from Moo Housing Inc:Rent receivable,Repairs and Maintenance,DR,Maintenance {current_month},No
 Name,Move Out Cleaning Fee,Due to/from Moo Housing Inc:Rent receivable,Cleaning,DR,Cleaning {current_month},No
 Name,Move Out Maintenance Fee,Due to/from Moo Housing Inc:Rent receivable,Repairs and Maintenance,DR,Maintenance {current_month},No
 Name,Rent Income,Due to/from Moo Housing Inc:Rent receivable,Operating Rent Income,DR,Rent {current_month},No
@@ -31,4 +32,5 @@ Keyword,6150,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and
 Keyword,6145,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
 Keyword,6142,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
 Keyword,6101,Due to/from Moo Housing Inc:MH Prepaid and distribution,Professional Fees,CR,,Yes
+
 
