@@ -12,7 +12,6 @@ Name,Parking Income,Due to/from Moo Housing Inc:Rent receivable,Operating Rent I
 Name,Concessions,Due to/from Moo Housing Inc:Rent receivable,Operating Rent Income,DR,Concessions {current_month},No
 Name,Advertising,Due to/from Moo Housing Inc:MH Prepaid and distribution,Advertising and Promotion,CR,Advertising {current_month},No
 Name,Accounting,Due to/from Moo Housing Inc:MH Prepaid and distribution,Professional Fees:Accounting,CR,Accounting {current_month},No
-Name,Accounting,Due to/from Moo Housing Inc:MH Prepaid and distribution,Professional Fees:Accounting,CR,Accounting {current_month},No
 Name,Property Insurance,Due to/from Moo Housing Inc:MH Prepaid and distribution,Insurance Expense,CR,Property Insurance,No
 Name,Management Fees,Due to/from Moo Housing Inc:MH Prepaid and distribution,Professional Fees:property management fee,CR,Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:MH Prepaid and distribution,Commissions Paid,CR,Commission Fee {current_month},No
@@ -34,6 +33,7 @@ Keyword,6145,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and
 Keyword,6142,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
 Keyword,6101,Due to/from Moo Housing Inc:MH Prepaid and distribution,Professional Fees,CR,,Yes
 Keyword,6191,Due to/from Moo Housing Inc:MH Prepaid and distribution,Repairs and Maintenance,CR,,Yes
+
 
 
 
