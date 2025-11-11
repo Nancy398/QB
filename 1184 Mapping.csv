@@ -18,6 +18,7 @@ Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:1184:MH Prepaid and 
 Name,LADWP,Due to/from Moo Housing Inc:1184:Utilities:LADWP,Utilities:1184:LADWP,CR,1184 LADWP {current_month},No
 Name,Gas,Due to/from Moo Housing Inc:1184:Utilities:Socal Gas,Utilities:1184:Socal Gas,CR,1184 Gas {current_month},No
 Name,Internet,Due to/from Moo Housing Inc:1184:Utilities:Spectrum,Utilities:1184:Spectrum,CR,1184 Spectrum {current_month},No
+Name,Republic Service,Due to/from Moo Housing Inc:1184:Utilities:Republic Service,Utilities:1184:Trash,CR,Republic Service {current_month},No
 Keyword,6147,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
 Keyword,6074,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Cleaning:1184 Cleaning,CR,,Yes
 Keyword,7050,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Furniture and Equipment:1184,CR,,Yes
@@ -32,3 +33,4 @@ Keyword,6077,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repair
 Keyword,6142,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
 Keyword,6101,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
 Keyword,6191,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
+
