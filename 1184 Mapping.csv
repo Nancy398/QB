@@ -4,6 +4,7 @@ Name,Utilities Services - Gas,Due to/from Moo Housing Inc:1184:Rent receivable,U
 Name,Utilities Services - Trash,Due to/from Moo Housing Inc:1184:Rent receivable,Utilities:1184:Trash,DR,1184 Trash {current_month},No
 Name,Utilities Services - Internet,Due to/from Moo Housing Inc:1184:Rent receivable,Utilities:1184:Spectrum,DR,1184 nternet {current_month},No
 Name,Utilities Services - Cleaning,Due to/from Moo Housing Inc:1184:Rent receivable,Cleaning:1184 Cleaning,DR,1184 Cleaning {current_month},No
+Name,Repair,Due to/from Moo Housing Inc:1184:Rent receivable,Repairs and Maintenance:1184,DR,Maintenance {current_month},No
 Name,Move Out Cleaning Fee,Due to/from Moo Housing Inc:1184:Rent receivable,Cleaning:1184 Cleaning,DR,1184 Cleaning {current_month},No
 Name,Move Out Maintenance Fee,Due to/from Moo Housing Inc:1184:Rent receivable,Repairs and Maintenance:1184,DR,1184 Maintenance {current_month},No
 Name,Rent Income,Due to/from Moo Housing Inc:1184:Rent receivable,Operating Rent Income:1184,DR,1184 Rent {current_month},No
@@ -28,3 +29,6 @@ Keyword,6177,Due to/from Moo Housing Inc:1184:Utilities:Republic Service,Utiliti
 Keyword,6150,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
 Keyword,6145,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
 Keyword,6077,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
+Keyword,6142,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
+Keyword,6101,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
+Keyword,6191,Due to/from Moo Housing Inc:1184:MH Prepaid and distribution,Repairs and Maintenance:1184,CR,,Yes
