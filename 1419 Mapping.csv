@@ -14,7 +14,7 @@ Name,Advertising,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Ad
 Name,Accounting,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Professional Fees:Accounting:1419,CR,1419 Accounting {current_month},No
 Name,Property Insurance,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Insurance Expense,CR,1419 Property Insurance,No
 Name,Management Fees,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Professional Fees:property management fee:1419,CR,1419 Management Fee {current_month},No
-Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Commissions Paid:1419,CR,1419 Commission Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Commission Paid:1419,CR,1419 Commission Fee {current_month},No
 Name,LADWP,Due to/from Moo Housing Inc:1419:Utilities:LADWP,Utilities:LADWP:1419,CR,1419 LADWP {current_month},No
 Name,Gas,Due to/from Moo Housing Inc:1419:Utilities:Socal Gas,Utilities:Socal Gas:1419,CR,1419 Gas {current_month},No
 Name,Internet,Due to/from Moo Housing Inc:1419:Utilities:Spectrum,Utilities:Spectrum:1419,CR,1419 Spectrum {current_month},No
@@ -33,3 +33,4 @@ Keyword,6077,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Repair
 Keyword,6142,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Repairs and Maintenance:1419,CR,,Yes
 Keyword,6101,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Repairs and Maintenance:1419,CR,,Yes
 Keyword,6191,Due to/from Moo Housing Inc:1419:MH Prepaid and distribution,Repairs and Maintenance:1419,CR,,Yes
+
