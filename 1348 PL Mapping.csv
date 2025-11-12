@@ -4,6 +4,7 @@ Name,Utilities Services - Gas,Due to/from Moo Housing Inc:1348:Rent receivable,U
 Name,Utilities Services - Trash,Due to/from Moo Housing Inc:1348:Rent receivable,Utilities:Trash:1348,DR,1348 Trash {current_month},No
 Name,Utilities Services - Internet,Due to/from Moo Housing Inc:1348:Rent receivable,Utilities:Spectrum:1348,DR,1348 Internet {current_month},No
 Name,Utilities Services - Cleaning,Due to/from Moo Housing Inc:1348:Rent receivable,Cleaning:1348,DR,1348 Cleaning {current_month},No
+Name,Repair,Due to/from Moo Housing Inc:1348:Rent receivable,Repairs and Maintenance:1348,DR,Maintenance {current_month},No
 Name,Move Out Cleaning Fee,Due to/from Moo Housing Inc:1348:Rent receivable,Cleaning:1348,DR,1348 Cleaning {current_month},No
 Name,Move Out Maintenance Fee,Due to/from Moo Housing Inc:1348:Rent receivable,Repairs and Maintenance:1348,DR,1348 Maintenance {current_month},No
 Name,Rent Income,Due to/from Moo Housing Inc:1348:Rent receivable,Operating Rent Income:1348,DR,1348 Rent {current_month},No
@@ -17,6 +18,7 @@ Name,Commissions/Placement Fees,Due to/from Moo Housing Inc:1348:MH Prepaid and 
 Name,LADWP,Due to/from Moo Housing Inc:1348:Utilities:LADWP,Utilities:LADWP:1348,CR,1348 LADWP {current_month},No
 Name,Gas,Due to/from Moo Housing Inc:1348:Utilities:Socal Gas,Utilities:Socal Gas:1348,CR,1348 Gas {current_month},No
 Name,Internet,Due to/from Moo Housing Inc:1348:Utilities:Spectrum,Utilities:Spectrum:1348,CR,1348 Spectrum {current_month},No
+Name,Republic Service,Due to/from Moo Housing Inc:1348:Utilities:Republic Service,Utilities:Trash:1348,CR,Republic Service {current_month},No
 Keyword,6147,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
 Keyword,6074,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Cleaning:1348,CR,,Yes
 Keyword,7050,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Furniture and Equipment:1348,CR,,Yes
@@ -28,3 +30,6 @@ Keyword,6177,Due to/from Moo Housing Inc:1348:Utilities:Republic Service,Utiliti
 Keyword,6150,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
 Keyword,6145,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
 Keyword,6077,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
+Keyword,6142,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
+Keyword,6101,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
+Keyword,6191,Due to/from Moo Housing Inc:1348:MH Prepaid and distribution,Repairs and Maintenance:1348,CR,,Yes
