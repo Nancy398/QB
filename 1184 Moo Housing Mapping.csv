@@ -10,11 +10,12 @@ Name,Move Out Maintenance Fee,Due to/ from Owners:MW USC Development:1186 W 37th
 Name,Rent Income,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,CR,1184 Rent Income{current_month},No
 Name,Parking Income,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,CR,1184 Parking Rent Income {current_month},No
 Name,Concessions,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,CR,1184 Concessions {current_month},No
-Name,Advertising,Due to/ from Owners:MW USC Development,Advertising and Promotion,CR,1184 Advertising {current_month},No
-Name,Accounting,Due to/ from Owners:MW USC Development,Professional Fees:Bookkeeping Fee,CR,1184 Accounting {current_month},No
+Name,Advertising,Due to/ from Owners:MW USC Development,Advertising and Promotion,DR,1184 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:MW USC Development,Professional Fees:Bookkeeping Fee,DR,1184 Accounting {current_month},No
 Name,Management Fees,Due to/ from Owners:MW USC Development,Management Fee earned,DR,1184 Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/ from Owners:MW USC Development,Commission Income,DR,1184 Commission Fee {current_month},No
 Name,LADWP,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:LADWP,DR,1184 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Socal Gas,DR,1184 Gas {current_month},No
 Name,Internet,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Spectrum,DR,1184 Spectrum {current_month},No
+
 
