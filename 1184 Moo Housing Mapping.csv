@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:MW USC Development:1186 W 37th Pl Income(3737),Buildium&Appfolio Gen Acct,DR,1184 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:MW USC Development,Advertising and Promotion,CR,1184 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:MW USC Development,Professional Fees:Bookkeeping Fee,CR,1184 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:MW USC Development,Management Fee earned,CR,1184 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:MW USC Development,Commission Income,CR,1184 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:LADWP,CR,1184 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Socal Gas,CR,1184 Gas {current_month},No
+Name,Internet,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Spectrum,CR,1184 Spectrum {current_month},No
