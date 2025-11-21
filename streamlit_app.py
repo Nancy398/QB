@@ -142,12 +142,11 @@ if st.button("🚀 生成 IIF 文件"):
         st.error("⚠️ 请上传 Income Statement 和 General Ledger 文件。")
     else:
         with st.spinner(f"正在为 {property_selected} 生成 IIF 文件..."):
-with st.spinner(
-    f"正在为 {property_selected} 生成 IIF 文件..."): 
-        iif_text = generate_iif(income_file, gl_file, mapping_path, date_str) 
-        buffer = BytesIO() 
-        buffer.write(iif_text.encode("utf-8")) buffer.seek(0) 
-        file_name = f"{property_selected}_JE_{date_str.replace('/','-')}.iif" 
-        st.success(f"✅ {property_selected} 的 IIF 文件生成成功！") 
-        st.download_button( label="⬇️ 下载 IIF 文件", data=buffer, file_name=file_name, mime="text/plain"
+            f"正在为 {property_selected} 生成 IIF 文件..."): 
+                iif_text = generate_iif(income_file, gl_file, mapping_path, date_str) 
+                buffer = BytesIO() 
+                buffer.write(iif_text.encode("utf-8")) buffer.seek(0) 
+                file_name = f"{property_selected}_JE_{date_str.replace('/','-')}.iif" 
+                st.success(f"✅ {property_selected} 的 IIF 文件生成成功！") 
+                st.download_button( label="⬇️ 下载 IIF 文件", data=buffer, file_name=file_name, mime="text/plain"
             )
