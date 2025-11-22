@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:1340 37th rental income,Buildium&Appfolio Gen Acct,CR,1340 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:MR Cal Development LLC 1419 134,Advertising and Promotion,DR,1340 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:MR Cal Development LLC 1419 135,Professional Fees:Bookkeeping Fee,DR,1340 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:MR Cal Development LLC 1419 136,Management Fee earned,DR,1340 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:MR Cal Development LLC 1419 137,Commission Income,DR,1340 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:LADWP,DR,1340 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Socal Gas,DR,1340 Gas {current_month},No
+Name,Internet,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Spectrum,DR,1340 Spectrum {current_month},No

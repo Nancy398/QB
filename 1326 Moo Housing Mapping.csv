@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1326 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl,Advertising and Promotion,DR,1326 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl,Professional Fees:Bookkeeping Fee,DR,1326 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl,Management Fee earned,DR,1326 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl,Commission Income,DR,1326 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Utilities,Utilities:LADWP,DR,1326 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Utilities,Utilities:Socal Gas,DR,1326 Gas {current_month},No
+Name,Internet,Due to/ from Owners:USC VILLAS NO 1 LLC:1326 W 35th Pl:1326 W 35th Utilities,Utilities:Spectrum,DR,1326 Spectrum {current_month},No

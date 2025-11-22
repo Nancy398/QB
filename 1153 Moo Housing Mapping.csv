@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 rental income,Buildium&Appfolio Gen Acct,CR,1153 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:1153 37th Dr Development LLC,Advertising and Promotion,DR,1153 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:1153 37th Dr Development LLC,Professional Fees:Bookkeeping Fee,DR,1153 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:1153 37th Dr Development LLC,Management Fee earned,DR,1153 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:1153 37th Dr Development LLC,Commission Income,DR,1153 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 Utility,Utilities:LADWP,DR,1153 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 Utility,Utilities:Socal Gas,DR,1153 Gas {current_month},No
+Name,Internet,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 Utility,Utilities:Spectrum,DR,1153 Spectrum {current_month},No

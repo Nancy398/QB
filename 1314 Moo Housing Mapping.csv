@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:USC Villias 1314 LLC:1314 W 35th Pl Income,Buildium&Appfolio Gen Acct,CR,1314 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:USC Villias 1314 LLC,Advertising and Promotion,DR,1314 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:USC Villias 1314 LLC,Professional Fees:Bookkeeping Fee,DR,1314 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:USC Villias 1314 LLC,Management Fee earned,DR,1314 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:USC Villias 1314 LLC,Commission Income,DR,1314 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:USC Villias 1314 LLC:1314 Utility,Utilities:LADWP,DR,1314 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:USC Villias 1314 LLC:1314 Utility,Utilities:Socal Gas,DR,1314 Gas {current_month},No
+Name,Internet,Due to/ from Owners:USC Villias 1314 LLC:1314 Utility,Utilities:Spectrum,DR,1314 Spectrum {current_month},No

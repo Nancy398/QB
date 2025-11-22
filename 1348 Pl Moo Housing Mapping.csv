@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl income,Buildium&Appfolio Gen Acct,CR,1348 Pl Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:USC Development 1377 LLC,Advertising and Promotion,DR,1348 Pl Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:USC Development 1377 LLC,Professional Fees:Bookkeeping Fee,DR,1348 Pl Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:USC Development 1377 LLC,Management Fee earned,DR,1348 Pl Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:USC Development 1377 LLC,Commission Income,DR,1348 Pl Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl utility,Utilities:LADWP,DR,1348 Pl LADWP {current_month},No
+Name,Gas,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl utility,Utilities:Socal Gas,DR,1348 Pl Gas {current_month},No
+Name,Internet,Due to/ from Owners:USC Development 1377 LLC:1348 35th Pl utility,Utilities:Spectrum,DR,1348 Pl Spectrum {current_month},No

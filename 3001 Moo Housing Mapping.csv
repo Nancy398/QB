@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Income,Buildium&Appfolio Gen Acct,CR,3001 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:USC Villas 3001 LLC,Advertising and Promotion,DR,3001 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:USC Villas 3001 LLC,Professional Fees:Bookkeeping Fee,DR,3001 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:USC Villas 3001 LLC,Management Fee earned,DR,3001 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:USC Villas 3001 LLC,Commission Income,DR,3001 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Utility,Utilities:LADWP,DR,3001 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Utility,Utilities:Socal Gas,DR,3001 Gas {current_month},No
+Name,Internet,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Utility,Utilities:Spectrum,DR,3001 Spectrum {current_month},No

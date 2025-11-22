@@ -1,0 +1,19 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:McW Development LLC:5401-5405 carlin rent income,Buildium&Appfolio Gen Acct,CR,5401 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:McW Development LLC,Advertising and Promotion,DR,5401 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:McW Development LLC,Professional Fees:Bookkeeping Fee,DR,5401 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:McW Development LLC,Management Fee earned,DR,5401 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:McW Development LLC,Commission Income,DR,5401 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:LADWP,DR,5401 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Socal Gas,DR,5401 Gas {current_month},No
+Name,Internet,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Spectrum,DR,5401 Spectrum {current_month},No
