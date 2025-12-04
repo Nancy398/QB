@@ -17,3 +17,5 @@ Name,Commissions/Placement Fees,Due to/ from Owners:MR Cal Development LLC 1419 
 Name,LADWP,Due to/ from Owners:MR Cal Development LLC 1419 134,Utilities:LADWP,DR,3430 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Socal Gas,DR,3430 Gas {current_month},No
 Name,Internet,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Spectrum,DR,3430 Spectrum {current_month},No
+Name,Republic Service,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Trash,DR,3430 Trash {current_month},No
+
