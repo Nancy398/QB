@@ -1,0 +1,20 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:MW USC Development:1297 W 36th St Income,Buildium&Appfolio Gen Acct,CR,1297 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:MW USC Development,Advertising and Promotion,DR,1297 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:MW USC Development,Professional Fees:Bookkeeping Fee,DR,1297 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:MW USC Development,Management Fee earned,DR,1297 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:MW USC Development,Commission Income,DR,1297 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:LADWP,DR,1297 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Socal Gas,DR,1297 Gas {current_month},No
+Name,Internet,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Spectrum,DR,1297 Spectrum {current_month},No
+Name,Republic Service,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Trash,DR,1297 Trash {current_month},No
