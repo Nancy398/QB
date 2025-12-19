@@ -11,11 +11,12 @@ Name,Rent Income,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Inco
 Name,Parking Income,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:3430 Walton Ave,Buildium&Appfolio Gen Acct,CR,3430 Parking Rent Income {current_month},No
 Name,Concessions,Due to/ from Owners:MR Cal Development LLC 1419 134:Mr Cal Income:3430 Walton Ave,Buildium&Appfolio Gen Acct,CR,3430 Concessions {current_month},No
 Name,Advertising,Due to/ from Owners:MR Cal Development LLC 1419 134,Advertising and Promotion,DR,3430 Advertising {current_month},No
-Name,Accounting,Due to/ from Owners:MR Cal Development LLC 1419 135,Professional Fees:Bookkeeping Fee,DR,3430 Accounting {current_month},No
-Name,Management Fees,Due to/ from Owners:MR Cal Development LLC 1419 136,Management Fee earned,DR,3430 Management Fee {current_month},No
-Name,Commissions/Placement Fees,Due to/ from Owners:MR Cal Development LLC 1419 137,Commission Income,DR,3430 Commission Fee {current_month},No
+Name,Accounting,Due to/ from Owners:MR Cal Development LLC 1419 134,Professional Fees:Bookkeeping Fee,DR,3430 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:MR Cal Development LLC 1419 134,Management Fee earned,DR,3430 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:MR Cal Development LLC 1419 134,Commission Income,DR,3430 Commission Fee {current_month},No
 Name,LADWP,Due to/ from Owners:MR Cal Development LLC 1419 134,Utilities:LADWP,DR,3430 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Socal Gas,DR,3430 Gas {current_month},No
 Name,Internet,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Spectrum,DR,3430 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:MR Cal Development LLC 1419 134:MR Utilities cost,Utilities:Trash,DR,3430 Trash {current_month},No
+
 
