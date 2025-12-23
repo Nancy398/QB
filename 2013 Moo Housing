@@ -1,0 +1,20 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:MF Development LLC:MF 2013-2015 rental income,Buildium&Appfolio Gen Acct,CR,2013 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:MF Development LLC,Advertising and Promotion,DR,2013 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:MF Development LLC,Professional Fees:Bookkeeping Fee,DR,2013 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:MF Development LLC,Management Fee earned,DR,2013 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:MF Development LLC,Commission Income,DR,2013 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:LADWP,DR,2013 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Socal Gas,DR,2013 Gas {current_month},No
+Name,Internet,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Spectrum,DR,2013 Spectrum {current_month},No
+Name,Republic Service,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Trash,DR,2013 Trash {current_month},No
