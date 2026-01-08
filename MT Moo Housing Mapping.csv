@@ -11,10 +11,11 @@ Name,Rent Income,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St 
 Name,Parking Income,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St income,Buildium&Appfolio Gen Acct,CR,1256 Parking Rent Income {current_month},No
 Name,Concessions,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St income,Buildium&Appfolio Gen Acct,CR,1256 Concessions {current_month},No
 Name,Advertising,Due to/ from Owners:MT USC Development LLC,Advertising and Promotion,DR,1256 Advertising {current_month},No
-Name,Accounting,Due to/ from Owners:MT USC Development LLC,Professional Fees:Bookkeeping Fee,DR,1256 Accounting {current_month},No
+Name,Accounting,Due to/ from Owners:MT USC Development LLC,Bookkeeping,DR,1256 Accounting {current_month},No
 Name,Management Fees,Due to/ from Owners:MT USC Development LLC,Management Fee earned,DR,1256 Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/ from Owners:MT USC Development LLC,Commission Income,DR,1256 Commission Fee {current_month},No
 Name,LADWP,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St utility,Utilities:LADWP,DR,1256 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St utility,Utilities:Socal Gas,DR,1256 Gas {current_month},No
 Name,Internet,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St utility,Utilities:Spectrum,DR,1256 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:MT USC Development LLC:1252-1256 W 37th St utility,Utilities:Trash,DR,1256 Trash {current_month},No
+
