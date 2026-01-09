@@ -11,10 +11,11 @@ Name,Rent Income,Due to/ from Owners:Mx USC Development:1530-1532 rental income,
 Name,Parking Income,Due to/ from Owners:Mx USC Development:1530-1532 rental income,Buildium&Appfolio Gen Acct,CR,1530 Parking Rent Income {current_month},No
 Name,Concessions,Due to/ from Owners:Mx USC Development:1530-1532 rental income,Buildium&Appfolio Gen Acct,CR,1530 Concessions {current_month},No
 Name,Advertising,Due to/ from Owners:Mx USC Development,Advertising and Promotion,DR,1530 Advertising {current_month},No
-Name,Accounting,Due to/ from Owners:Mx USC Development,Professional Fees:Bookkeeping Fee,DR,1530 Accounting {current_month},No
+Name,Accounting,Due to/ from Owners:Mx USC Development,Bookkeeping,DR,1530 Accounting {current_month},No
 Name,Management Fees,Due to/ from Owners:Mx USC Development,Management Fee earned,DR,1530 Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/ from Owners:Mx USC Development,Commission Income,DR,1530 Commission Fee {current_month},No
 Name,LADWP,Due to/ from Owners:Mx USC Development:1530-1532 W 37th Utility,Utilities:LADWP,DR,1530 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:Mx USC Development:1530-1532 W 37th Utility,Utilities:Socal Gas,DR,1530 Gas {current_month},No
 Name,Internet,Due to/ from Owners:Mx USC Development:1530-1532 W 37th Utility,Utilities:Spectrum,DR,1530 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:Mx USC Development:1530-1532 W 37th Utility,Utilities:Trash,DR,1530 Trash {current_month},No
+
