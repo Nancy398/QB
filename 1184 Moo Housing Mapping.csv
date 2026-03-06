@@ -18,6 +18,8 @@ Name,LADWP,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Util
 Name,Gas,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Socal Gas,DR,1184 Gas {current_month},No
 Name,Internet,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Spectrum,DR,1184 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:MW USC Development:1186 W 37th Utility(3737),Utilities:Trash,DR,1184 Trash {current_month},No
+Name,General Maintenance Labor,Due to/ from Owners:MW USC Development,Other Income:technician income,DR,1184 Labor {current_month},No
+
 
 
 
