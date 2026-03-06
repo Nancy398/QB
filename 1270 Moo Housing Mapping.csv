@@ -18,4 +18,5 @@ Name,LADWP,Due to/ from Owners:USC Development 1270 LLC:1270 Rolland Curtis Pl U
 Name,Gas,Due to/ from Owners:USC Development 1270 LLC:1270 Rolland Curtis Pl Utility,Utilities:Socal Gas,DR,1270 Gas {current_month},No
 Name,Internet,Due to/ from Owners:USC Development 1270 LLC:1270 Rolland Curtis Pl Utility,Utilities:Spectrum,DR,1270 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:USC Development 1270 LLC:1270 Rolland Curtis Pl Utility,Utilities:Trash,DR,1270 Trash {current_month},No
+Name,General Maintenance Labor,Due to/ from Owners:USC Development 1270 LLC,Other Income:technician income,DR,1270 Labor {current_month},No
 
