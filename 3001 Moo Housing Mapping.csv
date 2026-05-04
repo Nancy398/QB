@@ -19,4 +19,5 @@ Name,Gas,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Utility,Utili
 Name,Internet,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Utility,Utilities:Spectrum,DR,3001 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:USC Villas 3001 LLC:3001 Van Buren Pl Utility,Utilities:Trash,DR,3001 Trash {current_month},No
 Name,General Maintenance Labor,Due to/ from Owners:USC Villas 3001 LLC,Other Income:technician income,DR,3001 Labor {current_month},No
-
+Name,Maintenance Coordination Fee,Due to/ from Owners:USC Villas 3001 LLC,Other Income:technician income,DR,3001 Labor {current_month},No
+Name,Site Visit Fee,Due to/ from Owners:USC Villas 3001 LLC,Other Income:technician income,DR,3001 Labor {current_month},No
