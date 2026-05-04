@@ -19,5 +19,5 @@ Name,Gas,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 Utility,Util
 Name,Internet,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 Utility,Utilities:Spectrum,DR,1153 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:1153 37th Dr Development LLC:1151-1153 Utility,Utilities:Trash,DR,1153 Trash {current_month},No
 Name,General Maintenance Labor,Due to/ from Owners:1153 37th Dr Development LLC,Other Income:technician income,DR,1153 Labor {current_month},No
-
-
+Name,Maintenance Coordination Fee,Due to/ from Owners:1153 37th Dr Development LLC,Other Income:technician income,DR,1153 Labor {current_month},No
+Name,Site Visit Fee,Due to/ from Owners:1153 37th Dr Development LLC,Other Income:technician income,DR,1153 Labor {current_month},No
