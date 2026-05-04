@@ -19,5 +19,7 @@ Name,Gas,Due to/ from Owners:USC Villias 1314 LLC:1314 Utility,Utilities:Socal G
 Name,Internet,Due to/ from Owners:USC Villias 1314 LLC:1314 Utility,Utilities:Spectrum,DR,1314 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:USC Villias 1314 LLC:1314 Utility,Utilities:Trash,DR,1314 Trash {current_month},No
 Name,General Maintenance Labor,Due to/ from Owners:USC Villias 1314 LLC,Other Income:technician income,DR,1314 Labor {current_month},No
+Name,Maintenance Coordination Fee,Due to/ from Owners:USC Villias 1314 LLC,Other Income:technician income,DR,1314 Labor {current_month},No
+Name,Site Visit Fee,Due to/ from Owners:USC Villias 1314 LLC,Other Income:technician income,DR,1314 Labor {current_month},No
 
 
