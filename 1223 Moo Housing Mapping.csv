@@ -1,0 +1,23 @@
+Type,MatchValue,DebitAcc,CreditAcc,Direction,MemoTemplate,UseVendor
+Name,Utilities Services - LADWP,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 LADWP Income {current_month},No
+Name,Utilities Services - Gas,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Socal Gas Income{current_month},No
+Name,Utilities Services - Trash,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Trash Income{current_month},No
+Name,Utilities Services - Internet,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Internet Income{current_month},No
+Name,Utilities Services - Cleaning,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Cleaning Income{current_month},No
+Name,Repair,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Maintenance Income {current_month},No
+Name,Move Out Cleaning Fee,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Cleaning Income{current_month},No
+Name,Move Out Maintenance Fee,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Maintenance Income{current_month},No
+Name,Rent Income,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Rent Income{current_month},No
+Name,Parking Income,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Parking Rent Income {current_month},No
+Name,Concessions,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 W 37th Dr Income,Buildium&Appfolio Gen Acct,CR,1223 Concessions {current_month},No
+Name,Advertising,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Advertising and Promotion,DR,1223 Advertising {current_month},No
+Name,Accounting,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Bookkeeping,DR,1223 Accounting {current_month},No
+Name,Management Fees,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Management Fee earned,DR,1223 Management Fee {current_month},No
+Name,Commissions/Placement Fees,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Commission Income,DR,1223 Commission Fee {current_month},No
+Name,LADWP,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 Utility,Utilities:LADWP,DR,1223 LADWP {current_month},No
+Name,Gas,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 Utility,Utilities:Socal Gas,DR,1223 Gas {current_month},No
+Name,Internet,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 Utility,Utilities:Spectrum,DR,1223 Spectrum {current_month},No
+Name,Republic Service,Due to/ from Owners:USC DEVELOPMENT 1223 LLC:1223 Utility,Utilities:Trash,DR,1223 Trash {current_month},No
+Name,General Maintenance Labor,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Other Income:technician income,DR,1223 Labor {current_month},No
+Name,Maintenance Coordination Fee,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Other Income:technician income,DR,1223 Labor {current_month},No
+Name,Site Visit Fee,Due to/ from Owners:USC DEVELOPMENT 1223 LLC,Other Income:technician income,DR,1223Labor {current_month},No
