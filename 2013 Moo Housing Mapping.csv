@@ -14,9 +14,9 @@ Name,Advertising,Due to/ from Owners:MF Development LLC,Advertising and Promotio
 Name,Accounting,Due to/ from Owners:MF Development LLC,Bookkeeping,DR,2013 Accounting {current_month},No
 Name,Management Fees,Due to/ from Owners:MF Development LLC,Management Fee earned,DR,2013 Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/ from Owners:MF Development LLC,Commission Income,DR,2013 Commission Fee {current_month},No
-Name,LADWP,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:LADWP,DR,2013 LADWP {current_month},No
+Name,LADWP,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Water & Power:LADWP,DR,2013 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Socal Gas,DR,2013 Gas {current_month},No
-Name,Internet,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Spectrum,DR,2013 Spectrum {current_month},No
+Name,Internet,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Internet:Spectrum,DR,2013 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:MF Development LLC:MF 2013-2015 Utility,Utilities:Trash,DR,2013 Trash {current_month},No
 Name,General Maintenance Labor,Due to/ from Owners:MF Development LLC,Other Income:technician income,DR,2013 Labor {current_month},No
 Name,Maintenance Coordination Fee,Due to/ from Owners:MF Development LLC,Other Income:technician income,DR,2013 Labor {current_month},No
