@@ -14,9 +14,9 @@ Name,Advertising,Due to/ from Owners:MW USC Development,Advertising and Promotio
 Name,Accounting,Due to/ from Owners:MW USC Development,Bookkeeping,DR,1297 Accounting {current_month},No
 Name,Management Fees,Due to/ from Owners:MW USC Development,Management Fee earned,DR,1297 Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/ from Owners:MW USC Development,Commission Income,DR,1297 Commission Fee {current_month},No
-Name,LADWP,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:LADWP,DR,1297 LADWP {current_month},No
+Name,LADWP,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Water & Power:LADWP,DR,1297 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Socal Gas,DR,1297 Gas {current_month},No
-Name,Internet,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Spectrum,DR,1297 Spectrum {current_month},No
+Name,Internet,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Internet:Spectrum,DR,1297 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:MW USC Development:1297 W 36th Utility,Utilities:Trash,DR,1297 Trash {current_month},No
 Name,General Maintenance Labor,Due to/ from Owners:MW USC Development,Other Income:technician income,DR,1297 Labor {current_month},No
 Name,Site Visit Fee,Due to/ from Owners:MW USC Development,Other Income:technician income,DR,1297 Labor {current_month},No
