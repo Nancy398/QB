@@ -14,10 +14,11 @@ Name,Advertising,Due to/ from Owners:McW Development LLC,Advertising and Promoti
 Name,Accounting,Due to/ from Owners:McW Development LLC,Bookkeeping,DR,5401 Accounting {current_month},No
 Name,Management Fees,Due to/ from Owners:McW Development LLC,Management Fee earned,DR,5401 Management Fee {current_month},No
 Name,Commissions/Placement Fees,Due to/ from Owners:McW Development LLC,Commission Income,DR,5401 Commission Fee {current_month},No
-Name,LADWP,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:LADWP,DR,5401 LADWP {current_month},No
+Name,LADWP,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Water & Power:LADWP,DR,5401 LADWP {current_month},No
 Name,Gas,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Socal Gas,DR,5401 Gas {current_month},No
-Name,Internet,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Spectrum,DR,5401 Spectrum {current_month},No
+Name,Internet,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Internet:Spectrum,DR,5401 Spectrum {current_month},No
 Name,Republic Service,Due to/ from Owners:McW Development LLC:5401-5405 Utility,Utilities:Trash,DR,5401 Trash {current_month},No
 Name,General Maintenance Labor,Due to/ from Owners:McW Development LLC,Other Income:technician income,DR,5401 Labor {current_month},No
 Name,Maintenance Coordination Fee,Due to/ from Owners:McW Development LLC,Other Income:technician income,DR,5401 Labor {current_month},No
 Name,Site Visit Fee,Due to/ from Owners:McW Development LLC,Other Income:technician income,DR,5401 Labor {current_month},No
+
